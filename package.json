@@ -17,6 +17,8 @@
     "typescript": "^5.0.4"
   },
   "dependencies": {
+    "ansi-escapes": "^6.2.0",
+    "chalk": "^5.2.0",
     "compression": "^1.7.4",
     "cors": "^2.8.5",
     "dotenv": "^16.0.3",
